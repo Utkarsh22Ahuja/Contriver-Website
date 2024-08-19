@@ -14,10 +14,10 @@ function HeroSection() {
     <div
       className={`${roboto.className} justify-center items-start bg-contriverBgRotate sm:bg-contriverBgFlip bg-cover bg-top pt-10`}
     >
-      {/* WHO ARE WE? */}
+      {/* WHO WE ARE? */}
       <div className="bg-gray-50 rounded-3xl bg-opacity-50 sm:w-3/5 flex flex-col mx-10 p-4 lg:p-10 my-5 animate-fade-right animate-once animate-duration-1000 animate-delay-0 animate-ease-linear animate-normal animate-fill-forwards">
         <h1 className="text-4xl lg:text-5xl font-bold text-white mb-5 ">
-          WHO ARE WE ?
+          WHO WE ARE ?
         </h1>
         <p className="text-white text-lg lg:text-2xl">
           Group of Engineers, Researchers and Designers working with a mindset
