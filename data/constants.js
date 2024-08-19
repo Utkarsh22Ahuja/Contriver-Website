@@ -8,7 +8,7 @@ import ACIC from "/public/clients/ACIC.jpeg";
 export const about = [
   {
     title:
-      "Swarm of 20 drones for 7.5 kms range Wi-Fi that can trap other drones mid-flight. Full developement of both hardware and software. System has ability to work in rain, 50 Miles/hr wind and snowing conditions. Innormal weather conditions, can give range up to 7 kilometres. Indoor signal reception with bearable noise is up to 8 walls without any loss indata packets.",
+      "Swarm of 20 drones for 7 kms range Wi-Fi that can trap other drones mid-flight. Full developement of both hardware and software. System has ability to work in rain, 50 Miles/hr wind and snowing conditions. Innormal weather conditions, can give range up to 7 kilometres. Indoor signal reception with bearable noise is up to 8 walls without any loss indata packets.",
     description: [
       { feature: "Project cost 10Lacs" },
       { feature: "Economy Generated = 1.5Cr." },
