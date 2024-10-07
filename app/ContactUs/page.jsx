@@ -59,7 +59,7 @@ function ContactUsPage() {
           </div>
 
           <p className="text-lg sm:text-3xl lg:text-2xl font-semibold m-auto">
-            +91 9958312168
+            +91 9289899522
           </p>
         </div>
       </div>
